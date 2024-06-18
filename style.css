@@ -28,7 +28,7 @@ body {
 .login-section {
     position: relative;
     height: 87.5vh;
-    background: url(../image/bg.jpg) center no-repeat;
+    background: url(./image/bg.jpg) center no-repeat;
     background-size: cover;
 }
 .logo {
